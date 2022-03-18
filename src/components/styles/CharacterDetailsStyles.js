@@ -45,7 +45,7 @@ const styles= StyleSheet.create({
         marginBottom: 5,
     },
     property_name: {
-        fontSize: 14,
+        fontSize: 20,
         alignSelf: "flex-start",
         color: "#8a8b8c",
         marginLeft: 40,
@@ -53,7 +53,7 @@ const styles= StyleSheet.create({
     property_value: {
         height: "100%",
         color: "#ECECEC",
-        fontSize: 14,
+        fontSize: 18,
         alignSelf: "flex-start",
         marginLeft: 60,
     },

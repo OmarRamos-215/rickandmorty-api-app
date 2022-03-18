@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, Image, TouchableWithoutFeedback } from 'react-native'
 import React, { useState, useEffect } from 'react'
-import styles from './styles/Character'
+import styles from './styles/CharacterStyles'
 import { getEpisodeName } from '../api/characters'
 
 export default function Character({ character, navigation }){
