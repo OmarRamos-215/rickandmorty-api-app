@@ -1,1 +1,0 @@
-# rick-and-morty-mobile-api
